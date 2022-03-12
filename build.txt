@@ -1,0 +1,4 @@
+displayName = Better Astral Communicator for Catalyst
+author = WitherTaco
+version = 0.1
+modReference = CatalystMod
